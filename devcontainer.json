@@ -1,0 +1,14 @@
+{
+  "name": "p5.js Codespace",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:20",
+  "features": {},
+  "postCreateCommand": "npm install",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ritwickdey.liveserver",
+        "osteele.vscode-p5server"
+      ]
+    }
+  }
+}

@@ -1,0 +1,1 @@
+Hi this is the codespace for generative arts. Here you will find examples, exercises and notes.

@@ -6,8 +6,7 @@
   "customizations": {
     "vscode": {
       "extensions": [
-        "ritwickdey.liveserver",
-        "osteele.vscode-p5server",
+        
         "irti.p5js-project-generator"
       ]
     }
